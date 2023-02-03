@@ -1,0 +1,38 @@
+body{
+    background-color: #0A0B0D;
+    padding-top: 60px;
+}
+.bg-dblue{
+    background-color: #213140;
+}
+.text-dblue{
+    color: #0A0B0D;
+}
+.text-rng{
+    color: #f3af32;
+}
+.bg-rng{
+    background-color: #f3af32;
+}
+.btn-rng{
+    background-color: #f3af32;
+}
+.btn-rng:hover{
+    background-color: #c99027;
+}
+/* change the color of the button after clicking */
+.btn-rng:active{
+    background-color: #b67f19;
+}
+.bg-three{
+    background-color: #91C4D9;
+}
+.text-four{
+    color: #90C3D8;
+}
+.text-two{
+    color:#4A748A;
+}
+.bg{
+    background-color: #23305A;
+}
